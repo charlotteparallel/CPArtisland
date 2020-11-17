@@ -918,6 +918,8 @@ table tfoot td {
 }
 
 /* - - - - - - - - - - Art Island age Style - - - - - - - - - - */
+
+
 #head-wrapper {
   display:flex;
   flex-direction: row;
@@ -947,6 +949,5 @@ width: 100%
 hr {
   width: 50%;
   margin: 0 auto;
-  background-color: #ee7830;
-  height: 5px;
+  color: #ee7830;
 }
