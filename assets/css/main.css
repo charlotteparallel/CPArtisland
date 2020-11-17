@@ -947,6 +947,7 @@ width: 100%
 hr {
   width: 50%;
   margin: 0 auto;
+  color: #ee7830;
   background-color: #ee7830;
   height: 5px;
 }
