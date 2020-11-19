@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 
@@ -15,7 +15,3 @@ __isn't that amazing!__
 Here is another image...
 Let's see what happens!
 ![random.jpg]({{site.baseurl}}/assets/img/random.jpg)
-
-
-
-
