@@ -2,5 +2,4 @@
 published: true
 ---
 ### cool
-![korero.jpeg]({{site.baseurl}}/_posts/korero.jpeg)
-
+![meghan_tewhai_research_github.jpg]({{site.baseurl}}/_posts/img/meghan_tewhai_research_github.jpg)
