@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Off to meet Kamau Taurua Quarantine Island
 
