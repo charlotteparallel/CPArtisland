@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![](https://ia801400.us.archive.org/10/items/dscf-2064-copy/motoko%20kikkawa.jpg)
 ![artistincave](https://ia801400.us.archive.org/10/items/dscf-2064-copy/Slide10.jpeg)
